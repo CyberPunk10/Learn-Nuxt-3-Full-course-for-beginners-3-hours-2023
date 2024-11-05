@@ -1,6 +1,6 @@
 # Nuxt 3 Minimal Starter
 
-[https://www.youtube.com/watch?app=desktop&v=ww94Jvi8JJo&t=1188s](Course: Learn Nuxt 3 — Full course for beginners [3 hours] 2023)
+[Course: Learn Nuxt 3 — Full course for beginners [3 hours] 2023](https://www.youtube.com/watch?app=desktop&v=ww94Jvi8JJo&t=1188s)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
